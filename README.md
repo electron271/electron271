@@ -5,4 +5,9 @@
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electron271&langs_count=10&exclude_repo=TerminalInATerminal&layout=compact)](https://github.com/electron271/electron271)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/electron271/count.svg" />
+</p>
+
 
