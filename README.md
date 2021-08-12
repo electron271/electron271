@@ -15,7 +15,7 @@
 
 ## 🕐 Wakatime
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=electron271)](https://github.com/electron271/electron271)
+[![electron271's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=electron271&layout=compact)](https://github.com/electron271/electron271)
 
 <p align="center"> 
   Visitor count<br>
