@@ -1,10 +1,20 @@
 ## 🔧 Tools
 
-![img](https://img.shields.io/badge/OS-linux-9cf?style=flat-square&logo=linux)
-![img](https://img.shields.io/badge/Lang-rust-9cf?style=flat-square&logo=rust)
-![img](https://img.shields.io/badge/Distro-arch-9cf?style=flat-square&logo=arch-linux)
-![img](https://img.shields.io/badge/Shell-zsh-9cf?style=flat-square&logo=gnu)
-![img](https://img.shields.io/badge/Pkg%20Manager-pacman-9cf?style=flat-square&logo=git-lfs)
+🐧 OS: Linux
+> Distro: Debian Stable
+> 
+> WM/DE: GNOME 3.38.4
+
+💻 CPU: Intel i5-10600k
+
+💻 (I)GPU: UHD Graphics 630
+
+💾 Programming language(s): C/C++, Rust, Python, Shell
+
+📖 Learning: Rust, Shell
+
+🔧 Main Hobbies: Electrical Engineering, Coding
+
 
 ## 📈 Stats
 
