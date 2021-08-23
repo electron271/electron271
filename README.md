@@ -16,14 +16,14 @@
 🔧 Main Hobbies: Electrical Engineering, Coding
 
 
+
 ## 📈 Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=electron271&show_icons=true&theme=synthwave)](https://github.com/electron271/electron271)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=electron271&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/electron271/electron271)
 
-## 🖥️ Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electron271&langs_count=10&exclude_repo=TerminalInATerminal&layout=compact)](https://github.com/electron271/electron271)
 
-## 🕐 Wakatime
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=electron271&theme=synthwave)](https://git.io/streak-stats)
 
 [![electron271's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=electron271&layout=compact)](https://github.com/electron271/electron271)
 
