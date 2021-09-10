@@ -1,9 +1,6 @@
 ## 🔧 Tools
 
 🐧 OS: Linux
-> Distro: Debian Stable
-> 
-> WM/DE: GNOME 3.38.4
 
 💻 CPU: Intel i5-10600k
 
@@ -11,11 +8,9 @@
 
 💾 Programming language(s): C/C++, Rust, Python, Shell
 
-📖 Learning: Rust, Shell
+📖 Learning: Rust, Electrical Engineering
 
-🔧 Main Hobbies: Electrical Engineering, Coding
-
-
+🔧 Main Hobbies: Electrical Engineering, Coding, 
 
 ## 📈 Stats
 
@@ -26,6 +21,14 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=electron271&theme=synthwave)](https://git.io/streak-stats)
 
 [![electron271's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=electron271&layout=compact)](https://github.com/electron271/electron271)
+
+## Check out some of my projects!
+
+linuxinstaller - NOT MAINTAINED
+sandwich-machine -  on org "sandwich-machine"
+q-q - on org "unstable-errors"
+
+Big thanks to [@SoupDevHub](https://github.com/SoupDevHub) for helping out with some of my projects! Check out his work!
 
 <p align="center"> 
   Visitor count<br>
