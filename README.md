@@ -20,8 +20,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=electron271&theme=synthwave)](https://git.io/streak-stats)
 
-[![electron271's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=electron271&layout=compact)](https://github.com/electron271/electron271)
-
 ## Check out some of my projects!
 
 linuxinstaller - NOT MAINTAINED
