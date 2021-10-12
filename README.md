@@ -10,7 +10,7 @@
 
 📖 Learning: Rust, Electrical Engineering
 
-🔧 Main Hobbies: Electrical Engineering, Coding, 
+🔧 Main Hobbies: Electrical Engineering, Coding
 
 ## 📈 Stats
 
