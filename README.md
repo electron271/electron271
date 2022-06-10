@@ -1,6 +1,8 @@
 # Hello!👋
 Welcome to my github, nice to see you here! I'm a open hardware nerd, used to be a linux and software nerd, I'm taking a interest in eurorack and stuff made by @pichenettes
 
+Thanks to [@SoupHuman](https://github.com/SoupHuman) for helping with my projects!
+
 ## 📈 Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=electron271&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/electron271/electron271)
