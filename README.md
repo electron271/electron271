@@ -1,6 +1,5 @@
 # Hello!👋
-Welcome to my github, nice to see you here! I'm a open hardware nerd, used to be a linux and software nerd, I'm taking a interest in eurorack and stuff made by @pichenettes
-
+Welcome to my github, nice to see you here! I'm a open hardware nerd, code in JS, C/C++,Bash, Python, and more! I make synthesizers at the company Formation Electronics!
 Thanks to [@SoupHuman](https://github.com/SoupHuman) for helping with my projects!
 
 ## 📈 Stats
