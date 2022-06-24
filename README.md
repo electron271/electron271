@@ -1,8 +1,6 @@
 # Hello!👋
 Welcome to my github, nice to see you here! I'm a open hardware nerd, code in JS, C/C++,Bash, Python, and more! I make synthesizers at the company Formation Electronics!
 
-If there's a problem with one of my projects, you can email me
-
 Thanks to [@SoupHuman](https://github.com/SoupHuman) for helping with my projects!
 
 ## Collaboration
