@@ -10,9 +10,10 @@ I will be happy to collaborate on most projects, and would be happy to learn eve
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=electron271&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/electron271/electron271)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electron271&langs_count=10&exclude_repo=archive&layout=compact)](https://github.com/electron271/electron271)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=electron271&theme=monokai)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=electron271&theme=synthwave)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=electron271&color=blue&style=for-the-badge)
 
 
