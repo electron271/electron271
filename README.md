@@ -14,6 +14,9 @@ I will be happy to collaborate on most projects, and would be happy to learn eve
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=electron271&theme=synthwave)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=electron271&color=blue&style=for-the-badge)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/electron271/count.svg" />
+</p>
 
 
