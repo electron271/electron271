@@ -1,14 +1,11 @@
-# Hello!👋
-Welcome to my github, nice to see you here! I'm a open hardware nerd, code in Rust mainly, but also C/C++,Bash, Python, and more! I make synthesizers at the company Formation Electronics!
+# Hello!
+Welcome to my github, nice to see you here! I'm a open hardware nerd, code in Rust mainly, but also C/C++,Bash, Python, and more! I develop software, and mess around with Linux!
 
 Thanks to [@SoupHuman](https://github.com/SoupHuman) for helping with my projects!
 
-Check out my main project, [corrosionwm!](https://github.com/corrosionwm/corrosionwm/
+Check out my main project, [corrosionwm!](https://github.com/corrosionwm/corrosionwm/)
 
-## Collaboration
-I will be happy to collaborate on most projects, and would be happy to learn even the most complex things to help collaborate!
-
-## 📈 Stats
+## Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=electron271&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/electron271/electron271)
 
