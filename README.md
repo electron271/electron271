@@ -3,7 +3,7 @@ Welcome to my github, nice to see you here! I'm a open hardware nerd, code in Ru
 
 Thanks to [@SoupHuman](https://github.com/SoupHuman) for helping with my projects!
 
-Check out my main project, [corrosionwm!](https://github.com/corrosionwm/corrosionwm/)
+Check out my main project, [MagmaWM!](https://github.com/MagmaWM)
 
 ## Stats
 
@@ -14,7 +14,7 @@ Check out my main project, [corrosionwm!](https://github.com/corrosionwm/corrosi
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=electron271&theme=synthwave)](https://git.io/streak-stats)
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count (at least since i added it)<br>
   <img src="https://profile-counter.glitch.me/electron271/count.svg" />
 </p>
 
