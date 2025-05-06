@@ -1,6 +1,8 @@
 # Hello!
 Welcome to my github, nice to see you here! I'm a open hardware nerd, code in Rust mainly, but also C/C++,Bash, Python, and more! I develop software, and mess around with Linux!
 
+You can contact me at electron271@allthingslinux.org.
+
 ## Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=electron271&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/electron271/electron271)
